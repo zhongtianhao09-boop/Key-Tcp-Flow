@@ -1,0 +1,176 @@
+[
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build -std=gnu++17 -o CMakeFiles/test1.dir/tests/test1.cpp.o -c /home/solid/projects/flower/tests/test1.cpp",
+  "file": "/home/solid/projects/flower/tests/test1.cpp",
+  "output": "CMakeFiles/test1.dir/tests/test1.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build -std=gnu++17 -o CMakeFiles/test1.dir/flower/codec/Codec.cpp.o -c /home/solid/projects/flower/flower/codec/Codec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/Codec.cpp",
+  "output": "CMakeFiles/test1.dir/flower/codec/Codec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build -std=gnu++17 -o CMakeFiles/test1.dir/flower/codec/RequestCodec.cpp.o -c /home/solid/projects/flower/flower/codec/RequestCodec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RequestCodec.cpp",
+  "output": "CMakeFiles/test1.dir/flower/codec/RequestCodec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build -std=gnu++17 -o CMakeFiles/test1.dir/flower/codec/RespondCodec.cpp.o -c /home/solid/projects/flower/flower/codec/RespondCodec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RespondCodec.cpp",
+  "output": "CMakeFiles/test1.dir/flower/codec/RespondCodec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build -std=gnu++17 -o CMakeFiles/test1.dir/message.pb.cc.o -c /home/solid/projects/flower/build/message.pb.cc",
+  "file": "/home/solid/projects/flower/build/message.pb.cc",
+  "output": "CMakeFiles/test1.dir/message.pb.cc.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -std=gnu++17 -o CMakeFiles/test_pool.dir/tests/test_pool.cpp.o -c /home/solid/projects/flower/tests/test_pool.cpp",
+  "file": "/home/solid/projects/flower/tests/test_pool.cpp",
+  "output": "CMakeFiles/test_pool.dir/tests/test_pool.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -std=gnu++17 -o CMakeFiles/test_pool.dir/flower/connectPool/ThreadPool/ThreadPool.cpp.o -c /home/solid/projects/flower/flower/connectPool/ThreadPool/ThreadPool.cpp",
+  "file": "/home/solid/projects/flower/flower/connectPool/ThreadPool/ThreadPool.cpp",
+  "output": "CMakeFiles/test_pool.dir/flower/connectPool/ThreadPool/ThreadPool.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -std=gnu++17 -o CMakeFiles/test_tcp.dir/tests/test_tcp.cpp.o -c /home/solid/projects/flower/tests/test_tcp.cpp",
+  "file": "/home/solid/projects/flower/tests/test_tcp.cpp",
+  "output": "CMakeFiles/test_tcp.dir/tests/test_tcp.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -std=gnu++17 -o CMakeFiles/test_tcp.dir/flower/tcp/TcpServer.cpp.o -c /home/solid/projects/flower/flower/tcp/TcpServer.cpp",
+  "file": "/home/solid/projects/flower/flower/tcp/TcpServer.cpp",
+  "output": "CMakeFiles/test_tcp.dir/flower/tcp/TcpServer.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -std=gnu++17 -o CMakeFiles/test_tcp.dir/flower/tcp/TcpSocket.cpp.o -c /home/solid/projects/flower/flower/tcp/TcpSocket.cpp",
+  "file": "/home/solid/projects/flower/flower/tcp/TcpSocket.cpp",
+  "output": "CMakeFiles/test_tcp.dir/flower/tcp/TcpSocket.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -std=gnu++17 -o CMakeFiles/testocci.dir/tests/testocci.cpp.o -c /home/solid/projects/flower/tests/testocci.cpp",
+  "file": "/home/solid/projects/flower/tests/testocci.cpp",
+  "output": "CMakeFiles/testocci.dir/tests/testocci.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build -std=gnu++17 -o CMakeFiles/server.dir/flower/server/main.cpp.o -c /home/solid/projects/flower/flower/server/main.cpp",
+  "file": "/home/solid/projects/flower/flower/server/main.cpp",
+  "output": "CMakeFiles/server.dir/flower/server/main.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build -std=gnu++17 -o CMakeFiles/server.dir/flower/server/ServerOP.cpp.o -c /home/solid/projects/flower/flower/server/ServerOP.cpp",
+  "file": "/home/solid/projects/flower/flower/server/ServerOP.cpp",
+  "output": "CMakeFiles/server.dir/flower/server/ServerOP.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build -std=gnu++17 -o CMakeFiles/server.dir/flower/RsaCripto/RsaCripto.cpp.o -c /home/solid/projects/flower/flower/RsaCripto/RsaCripto.cpp",
+  "file": "/home/solid/projects/flower/flower/RsaCripto/RsaCripto.cpp",
+  "output": "CMakeFiles/server.dir/flower/RsaCripto/RsaCripto.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build -std=gnu++17 -o CMakeFiles/server.dir/flower/tcp/TcpServer.cpp.o -c /home/solid/projects/flower/flower/tcp/TcpServer.cpp",
+  "file": "/home/solid/projects/flower/flower/tcp/TcpServer.cpp",
+  "output": "CMakeFiles/server.dir/flower/tcp/TcpServer.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build -std=gnu++17 -o CMakeFiles/server.dir/flower/tcp/TcpSocket.cpp.o -c /home/solid/projects/flower/flower/tcp/TcpSocket.cpp",
+  "file": "/home/solid/projects/flower/flower/tcp/TcpSocket.cpp",
+  "output": "CMakeFiles/server.dir/flower/tcp/TcpSocket.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build -std=gnu++17 -o CMakeFiles/server.dir/flower/codec/Codec.cpp.o -c /home/solid/projects/flower/flower/codec/Codec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/Codec.cpp",
+  "output": "CMakeFiles/server.dir/flower/codec/Codec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build -std=gnu++17 -o CMakeFiles/server.dir/flower/codec/CodecFactory.cpp.o -c /home/solid/projects/flower/flower/codec/CodecFactory.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/CodecFactory.cpp",
+  "output": "CMakeFiles/server.dir/flower/codec/CodecFactory.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build -std=gnu++17 -o CMakeFiles/server.dir/flower/codec/RequestCodec.cpp.o -c /home/solid/projects/flower/flower/codec/RequestCodec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RequestCodec.cpp",
+  "output": "CMakeFiles/server.dir/flower/codec/RequestCodec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build -std=gnu++17 -o CMakeFiles/server.dir/flower/codec/RequestFactory.cpp.o -c /home/solid/projects/flower/flower/codec/RequestFactory.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RequestFactory.cpp",
+  "output": "CMakeFiles/server.dir/flower/codec/RequestFactory.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build -std=gnu++17 -o CMakeFiles/server.dir/flower/codec/RespondCodec.cpp.o -c /home/solid/projects/flower/flower/codec/RespondCodec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RespondCodec.cpp",
+  "output": "CMakeFiles/server.dir/flower/codec/RespondCodec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build -std=gnu++17 -o CMakeFiles/server.dir/flower/codec/RespondFactory.cpp.o -c /home/solid/projects/flower/flower/codec/RespondFactory.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RespondFactory.cpp",
+  "output": "CMakeFiles/server.dir/flower/codec/RespondFactory.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build -std=gnu++17 -o CMakeFiles/server.dir/message.pb.cc.o -c /home/solid/projects/flower/build/message.pb.cc",
+  "file": "/home/solid/projects/flower/build/message.pb.cc",
+  "output": "CMakeFiles/server.dir/message.pb.cc.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/connectPool/main.cpp.o -c /home/solid/projects/flower/flower/connectPool/main.cpp",
+  "file": "/home/solid/projects/flower/flower/connectPool/main.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/connectPool/main.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/connectPool/SocketPool/SocketPool.cpp.o -c /home/solid/projects/flower/flower/connectPool/SocketPool/SocketPool.cpp",
+  "file": "/home/solid/projects/flower/flower/connectPool/SocketPool/SocketPool.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/connectPool/SocketPool/SocketPool.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/connectPool/TaskQuene/TaskQuene.cpp.o -c /home/solid/projects/flower/flower/connectPool/TaskQuene/TaskQuene.cpp",
+  "file": "/home/solid/projects/flower/flower/connectPool/TaskQuene/TaskQuene.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/connectPool/TaskQuene/TaskQuene.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/connectPool/TcpSocket/TcpSocket.cpp.o -c /home/solid/projects/flower/flower/connectPool/TcpSocket/TcpSocket.cpp",
+  "file": "/home/solid/projects/flower/flower/connectPool/TcpSocket/TcpSocket.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/connectPool/TcpSocket/TcpSocket.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/connectPool/ThreadPool/ThreadPool.cpp.o -c /home/solid/projects/flower/flower/connectPool/ThreadPool/ThreadPool.cpp",
+  "file": "/home/solid/projects/flower/flower/connectPool/ThreadPool/ThreadPool.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/connectPool/ThreadPool/ThreadPool.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/connectPool/Logger/Logger.cpp.o -c /home/solid/projects/flower/flower/connectPool/Logger/Logger.cpp",
+  "file": "/home/solid/projects/flower/flower/connectPool/Logger/Logger.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/connectPool/Logger/Logger.cpp.o"
+}
+]

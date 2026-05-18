@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "defaultMode": "acceptEdits"
+  },
+  "extraKnownMarketplaces": {
+    "planning-with-files": {
+      "source": {
+        "source": "directory",
+        "path": "/mnt/d/skills/planning-with-files-master"
+      }
+    },
+    "web-access": {
+      "source": {
+        "source": "directory",
+        "path": "/mnt/d/skills/web-access-main"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "planning-with-files@planning-with-files": true,
+    "web-access@web-access": true
+  }
+}

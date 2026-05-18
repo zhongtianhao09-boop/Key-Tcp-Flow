@@ -1,0 +1,674 @@
+[
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test1.dir/tests/test1.cpp.o -c /home/solid/projects/flower/tests/test1.cpp",
+  "file": "/home/solid/projects/flower/tests/test1.cpp",
+  "output": "CMakeFiles/test1.dir/tests/test1.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test1.dir/flower/codec/Codec.cpp.o -c /home/solid/projects/flower/flower/codec/Codec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/Codec.cpp",
+  "output": "CMakeFiles/test1.dir/flower/codec/Codec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test1.dir/flower/codec/RequestCodec.cpp.o -c /home/solid/projects/flower/flower/codec/RequestCodec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RequestCodec.cpp",
+  "output": "CMakeFiles/test1.dir/flower/codec/RequestCodec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test1.dir/flower/codec/RespondCodec.cpp.o -c /home/solid/projects/flower/flower/codec/RespondCodec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RespondCodec.cpp",
+  "output": "CMakeFiles/test1.dir/flower/codec/RespondCodec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test1.dir/message.pb.cc.o -c /home/solid/projects/flower/build-qt/message.pb.cc",
+  "file": "/home/solid/projects/flower/build-qt/message.pb.cc",
+  "output": "CMakeFiles/test1.dir/message.pb.cc.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -g -O0 -g -std=gnu++17 -o CMakeFiles/test_pool.dir/tests/test_pool.cpp.o -c /home/solid/projects/flower/tests/test_pool.cpp",
+  "file": "/home/solid/projects/flower/tests/test_pool.cpp",
+  "output": "CMakeFiles/test_pool.dir/tests/test_pool.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -g -O0 -g -std=gnu++17 -o CMakeFiles/test_pool.dir/flower/connectPool/ThreadPool/ThreadPool.cpp.o -c /home/solid/projects/flower/flower/connectPool/ThreadPool/ThreadPool.cpp",
+  "file": "/home/solid/projects/flower/flower/connectPool/ThreadPool/ThreadPool.cpp",
+  "output": "CMakeFiles/test_pool.dir/flower/connectPool/ThreadPool/ThreadPool.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -g -O0 -g -std=gnu++17 -o CMakeFiles/test_tcp.dir/tests/test_tcp.cpp.o -c /home/solid/projects/flower/tests/test_tcp.cpp",
+  "file": "/home/solid/projects/flower/tests/test_tcp.cpp",
+  "output": "CMakeFiles/test_tcp.dir/tests/test_tcp.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -g -O0 -g -std=gnu++17 -o CMakeFiles/test_tcp.dir/flower/tcp/TcpServer.cpp.o -c /home/solid/projects/flower/flower/tcp/TcpServer.cpp",
+  "file": "/home/solid/projects/flower/flower/tcp/TcpServer.cpp",
+  "output": "CMakeFiles/test_tcp.dir/flower/tcp/TcpServer.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -g -O0 -g -std=gnu++17 -o CMakeFiles/test_tcp.dir/flower/tcp/TcpSocket.cpp.o -c /home/solid/projects/flower/flower/tcp/TcpSocket.cpp",
+  "file": "/home/solid/projects/flower/flower/tcp/TcpSocket.cpp",
+  "output": "CMakeFiles/test_tcp.dir/flower/tcp/TcpSocket.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -g -O0 -g -std=gnu++17 -o CMakeFiles/testocci.dir/tests/testocci.cpp.o -c /home/solid/projects/flower/tests/testocci.cpp",
+  "file": "/home/solid/projects/flower/tests/testocci.cpp",
+  "output": "CMakeFiles/testocci.dir/tests/testocci.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test_sign.dir/tests/test_sign.cpp.o -c /home/solid/projects/flower/tests/test_sign.cpp",
+  "file": "/home/solid/projects/flower/tests/test_sign.cpp",
+  "output": "CMakeFiles/test_sign.dir/tests/test_sign.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test_sign.dir/flower/RsaCripto/RsaCripto.cpp.o -c /home/solid/projects/flower/flower/RsaCripto/RsaCripto.cpp",
+  "file": "/home/solid/projects/flower/flower/RsaCripto/RsaCripto.cpp",
+  "output": "CMakeFiles/test_sign.dir/flower/RsaCripto/RsaCripto.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test_sign.dir/flower/codec/Codec.cpp.o -c /home/solid/projects/flower/flower/codec/Codec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/Codec.cpp",
+  "output": "CMakeFiles/test_sign.dir/flower/codec/Codec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test_sign.dir/flower/codec/RequestCodec.cpp.o -c /home/solid/projects/flower/flower/codec/RequestCodec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RequestCodec.cpp",
+  "output": "CMakeFiles/test_sign.dir/flower/codec/RequestCodec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test_sign.dir/flower/codec/RespondCodec.cpp.o -c /home/solid/projects/flower/flower/codec/RespondCodec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RespondCodec.cpp",
+  "output": "CMakeFiles/test_sign.dir/flower/codec/RespondCodec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test_sign.dir/flower/codec/CodecFactory.cpp.o -c /home/solid/projects/flower/flower/codec/CodecFactory.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/CodecFactory.cpp",
+  "output": "CMakeFiles/test_sign.dir/flower/codec/CodecFactory.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test_sign.dir/flower/codec/RequestFactory.cpp.o -c /home/solid/projects/flower/flower/codec/RequestFactory.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RequestFactory.cpp",
+  "output": "CMakeFiles/test_sign.dir/flower/codec/RequestFactory.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test_sign.dir/flower/codec/RespondFactory.cpp.o -c /home/solid/projects/flower/flower/codec/RespondFactory.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RespondFactory.cpp",
+  "output": "CMakeFiles/test_sign.dir/flower/codec/RespondFactory.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test_sign.dir/message.pb.cc.o -c /home/solid/projects/flower/build-qt/message.pb.cc",
+  "file": "/home/solid/projects/flower/build-qt/message.pb.cc",
+  "output": "CMakeFiles/test_sign.dir/message.pb.cc.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test_agree.dir/tests/test_agree.cpp.o -c /home/solid/projects/flower/tests/test_agree.cpp",
+  "file": "/home/solid/projects/flower/tests/test_agree.cpp",
+  "output": "CMakeFiles/test_agree.dir/tests/test_agree.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test_agree.dir/flower/RsaCripto/RsaCripto.cpp.o -c /home/solid/projects/flower/flower/RsaCripto/RsaCripto.cpp",
+  "file": "/home/solid/projects/flower/flower/RsaCripto/RsaCripto.cpp",
+  "output": "CMakeFiles/test_agree.dir/flower/RsaCripto/RsaCripto.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test_agree.dir/flower/codec/Codec.cpp.o -c /home/solid/projects/flower/flower/codec/Codec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/Codec.cpp",
+  "output": "CMakeFiles/test_agree.dir/flower/codec/Codec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test_agree.dir/flower/codec/RequestCodec.cpp.o -c /home/solid/projects/flower/flower/codec/RequestCodec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RequestCodec.cpp",
+  "output": "CMakeFiles/test_agree.dir/flower/codec/RequestCodec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test_agree.dir/flower/codec/RespondCodec.cpp.o -c /home/solid/projects/flower/flower/codec/RespondCodec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RespondCodec.cpp",
+  "output": "CMakeFiles/test_agree.dir/flower/codec/RespondCodec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test_agree.dir/flower/codec/CodecFactory.cpp.o -c /home/solid/projects/flower/flower/codec/CodecFactory.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/CodecFactory.cpp",
+  "output": "CMakeFiles/test_agree.dir/flower/codec/CodecFactory.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test_agree.dir/flower/codec/RequestFactory.cpp.o -c /home/solid/projects/flower/flower/codec/RequestFactory.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RequestFactory.cpp",
+  "output": "CMakeFiles/test_agree.dir/flower/codec/RequestFactory.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test_agree.dir/flower/codec/RespondFactory.cpp.o -c /home/solid/projects/flower/flower/codec/RespondFactory.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RespondFactory.cpp",
+  "output": "CMakeFiles/test_agree.dir/flower/codec/RespondFactory.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test_agree.dir/flower/tcp/TcpSocket.cpp.o -c /home/solid/projects/flower/flower/tcp/TcpSocket.cpp",
+  "file": "/home/solid/projects/flower/flower/tcp/TcpSocket.cpp",
+  "output": "CMakeFiles/test_agree.dir/flower/tcp/TcpSocket.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/test_agree.dir/message.pb.cc.o -c /home/solid/projects/flower/build-qt/message.pb.cc",
+  "file": "/home/solid/projects/flower/build-qt/message.pb.cc",
+  "output": "CMakeFiles/test_agree.dir/message.pb.cc.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -g -O0 -g -std=gnu++17 -o CMakeFiles/test_shm.dir/flower/ShareMemory/main.cpp.o -c /home/solid/projects/flower/flower/ShareMemory/main.cpp",
+  "file": "/home/solid/projects/flower/flower/ShareMemory/main.cpp",
+  "output": "CMakeFiles/test_shm.dir/flower/ShareMemory/main.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -g -O0 -g -std=gnu++17 -o CMakeFiles/test_shm.dir/flower/ShareMemory/SecKeyShm.cpp.o -c /home/solid/projects/flower/flower/ShareMemory/SecKeyShm.cpp",
+  "file": "/home/solid/projects/flower/flower/ShareMemory/SecKeyShm.cpp",
+  "output": "CMakeFiles/test_shm.dir/flower/ShareMemory/SecKeyShm.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -g -O0 -g -std=gnu++17 -o CMakeFiles/test_shm.dir/flower/ShareMemory/BaseShm.cpp.o -c /home/solid/projects/flower/flower/ShareMemory/BaseShm.cpp",
+  "file": "/home/solid/projects/flower/flower/ShareMemory/BaseShm.cpp",
+  "output": "CMakeFiles/test_shm.dir/flower/ShareMemory/BaseShm.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/flower/Myinterface -g -O0 -g -std=gnu++17 -o CMakeFiles/myiface.dir/flower/Myinterface/main.cpp.o -c /home/solid/projects/flower/flower/Myinterface/main.cpp",
+  "file": "/home/solid/projects/flower/flower/Myinterface/main.cpp",
+  "output": "CMakeFiles/myiface.dir/flower/Myinterface/main.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/server.dir/flower/server/main.cpp.o -c /home/solid/projects/flower/flower/server/main.cpp",
+  "file": "/home/solid/projects/flower/flower/server/main.cpp",
+  "output": "CMakeFiles/server.dir/flower/server/main.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/server.dir/flower/server/ServerOP.cpp.o -c /home/solid/projects/flower/flower/server/ServerOP.cpp",
+  "file": "/home/solid/projects/flower/flower/server/ServerOP.cpp",
+  "output": "CMakeFiles/server.dir/flower/server/ServerOP.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/server.dir/flower/OCCIOP/OCCIOP.cpp.o -c /home/solid/projects/flower/flower/OCCIOP/OCCIOP.cpp",
+  "file": "/home/solid/projects/flower/flower/OCCIOP/OCCIOP.cpp",
+  "output": "CMakeFiles/server.dir/flower/OCCIOP/OCCIOP.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/server.dir/flower/RsaCripto/RsaCripto.cpp.o -c /home/solid/projects/flower/flower/RsaCripto/RsaCripto.cpp",
+  "file": "/home/solid/projects/flower/flower/RsaCripto/RsaCripto.cpp",
+  "output": "CMakeFiles/server.dir/flower/RsaCripto/RsaCripto.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/server.dir/flower/ShareMemory/SecKeyShm.cpp.o -c /home/solid/projects/flower/flower/ShareMemory/SecKeyShm.cpp",
+  "file": "/home/solid/projects/flower/flower/ShareMemory/SecKeyShm.cpp",
+  "output": "CMakeFiles/server.dir/flower/ShareMemory/SecKeyShm.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/server.dir/flower/ShareMemory/BaseShm.cpp.o -c /home/solid/projects/flower/flower/ShareMemory/BaseShm.cpp",
+  "file": "/home/solid/projects/flower/flower/ShareMemory/BaseShm.cpp",
+  "output": "CMakeFiles/server.dir/flower/ShareMemory/BaseShm.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/server.dir/flower/connectPool/ThreadPool/ThreadPool.cpp.o -c /home/solid/projects/flower/flower/connectPool/ThreadPool/ThreadPool.cpp",
+  "file": "/home/solid/projects/flower/flower/connectPool/ThreadPool/ThreadPool.cpp",
+  "output": "CMakeFiles/server.dir/flower/connectPool/ThreadPool/ThreadPool.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/server.dir/flower/connectPool/Logger/Logger.cpp.o -c /home/solid/projects/flower/flower/connectPool/Logger/Logger.cpp",
+  "file": "/home/solid/projects/flower/flower/connectPool/Logger/Logger.cpp",
+  "output": "CMakeFiles/server.dir/flower/connectPool/Logger/Logger.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/server.dir/flower/tcp/TcpServer.cpp.o -c /home/solid/projects/flower/flower/tcp/TcpServer.cpp",
+  "file": "/home/solid/projects/flower/flower/tcp/TcpServer.cpp",
+  "output": "CMakeFiles/server.dir/flower/tcp/TcpServer.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/server.dir/flower/tcp/TcpSocket.cpp.o -c /home/solid/projects/flower/flower/tcp/TcpSocket.cpp",
+  "file": "/home/solid/projects/flower/flower/tcp/TcpSocket.cpp",
+  "output": "CMakeFiles/server.dir/flower/tcp/TcpSocket.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/server.dir/flower/codec/Codec.cpp.o -c /home/solid/projects/flower/flower/codec/Codec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/Codec.cpp",
+  "output": "CMakeFiles/server.dir/flower/codec/Codec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/server.dir/flower/codec/CodecFactory.cpp.o -c /home/solid/projects/flower/flower/codec/CodecFactory.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/CodecFactory.cpp",
+  "output": "CMakeFiles/server.dir/flower/codec/CodecFactory.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/server.dir/flower/codec/RequestCodec.cpp.o -c /home/solid/projects/flower/flower/codec/RequestCodec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RequestCodec.cpp",
+  "output": "CMakeFiles/server.dir/flower/codec/RequestCodec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/server.dir/flower/codec/RequestFactory.cpp.o -c /home/solid/projects/flower/flower/codec/RequestFactory.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RequestFactory.cpp",
+  "output": "CMakeFiles/server.dir/flower/codec/RequestFactory.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/server.dir/flower/codec/RespondCodec.cpp.o -c /home/solid/projects/flower/flower/codec/RespondCodec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RespondCodec.cpp",
+  "output": "CMakeFiles/server.dir/flower/codec/RespondCodec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/server.dir/flower/codec/RespondFactory.cpp.o -c /home/solid/projects/flower/flower/codec/RespondFactory.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RespondFactory.cpp",
+  "output": "CMakeFiles/server.dir/flower/codec/RespondFactory.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/server.dir/flower/Myinterface/interface.cpp.o -c /home/solid/projects/flower/flower/Myinterface/interface.cpp",
+  "file": "/home/solid/projects/flower/flower/Myinterface/interface.cpp",
+  "output": "CMakeFiles/server.dir/flower/Myinterface/interface.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/server.dir/flower/Myinterface/AesCrypto.cpp.o -c /home/solid/projects/flower/flower/Myinterface/AesCrypto.cpp",
+  "file": "/home/solid/projects/flower/flower/Myinterface/AesCrypto.cpp",
+  "output": "CMakeFiles/server.dir/flower/Myinterface/AesCrypto.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/server.dir/message.pb.cc.o -c /home/solid/projects/flower/build-qt/message.pb.cc",
+  "file": "/home/solid/projects/flower/build-qt/message.pb.cc",
+  "output": "CMakeFiles/server.dir/message.pb.cc.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/connectPool/main.cpp.o -c /home/solid/projects/flower/flower/connectPool/main.cpp",
+  "file": "/home/solid/projects/flower/flower/connectPool/main.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/connectPool/main.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/server/ServerOP.cpp.o -c /home/solid/projects/flower/flower/server/ServerOP.cpp",
+  "file": "/home/solid/projects/flower/flower/server/ServerOP.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/server/ServerOP.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/OCCIOP/OCCIOP.cpp.o -c /home/solid/projects/flower/flower/OCCIOP/OCCIOP.cpp",
+  "file": "/home/solid/projects/flower/flower/OCCIOP/OCCIOP.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/OCCIOP/OCCIOP.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/RsaCripto/RsaCripto.cpp.o -c /home/solid/projects/flower/flower/RsaCripto/RsaCripto.cpp",
+  "file": "/home/solid/projects/flower/flower/RsaCripto/RsaCripto.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/RsaCripto/RsaCripto.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/ShareMemory/SecKeyShm.cpp.o -c /home/solid/projects/flower/flower/ShareMemory/SecKeyShm.cpp",
+  "file": "/home/solid/projects/flower/flower/ShareMemory/SecKeyShm.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/ShareMemory/SecKeyShm.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/ShareMemory/BaseShm.cpp.o -c /home/solid/projects/flower/flower/ShareMemory/BaseShm.cpp",
+  "file": "/home/solid/projects/flower/flower/ShareMemory/BaseShm.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/ShareMemory/BaseShm.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/connectPool/SocketPool/SocketPool.cpp.o -c /home/solid/projects/flower/flower/connectPool/SocketPool/SocketPool.cpp",
+  "file": "/home/solid/projects/flower/flower/connectPool/SocketPool/SocketPool.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/connectPool/SocketPool/SocketPool.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/connectPool/TaskQuene/TaskQuene.cpp.o -c /home/solid/projects/flower/flower/connectPool/TaskQuene/TaskQuene.cpp",
+  "file": "/home/solid/projects/flower/flower/connectPool/TaskQuene/TaskQuene.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/connectPool/TaskQuene/TaskQuene.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/connectPool/ThreadPool/ThreadPool.cpp.o -c /home/solid/projects/flower/flower/connectPool/ThreadPool/ThreadPool.cpp",
+  "file": "/home/solid/projects/flower/flower/connectPool/ThreadPool/ThreadPool.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/connectPool/ThreadPool/ThreadPool.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/connectPool/Logger/Logger.cpp.o -c /home/solid/projects/flower/flower/connectPool/Logger/Logger.cpp",
+  "file": "/home/solid/projects/flower/flower/connectPool/Logger/Logger.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/connectPool/Logger/Logger.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/tcp/TcpServer.cpp.o -c /home/solid/projects/flower/flower/tcp/TcpServer.cpp",
+  "file": "/home/solid/projects/flower/flower/tcp/TcpServer.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/tcp/TcpServer.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/tcp/TcpSocket.cpp.o -c /home/solid/projects/flower/flower/tcp/TcpSocket.cpp",
+  "file": "/home/solid/projects/flower/flower/tcp/TcpSocket.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/tcp/TcpSocket.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/codec/Codec.cpp.o -c /home/solid/projects/flower/flower/codec/Codec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/Codec.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/codec/Codec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/codec/CodecFactory.cpp.o -c /home/solid/projects/flower/flower/codec/CodecFactory.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/CodecFactory.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/codec/CodecFactory.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/codec/RequestCodec.cpp.o -c /home/solid/projects/flower/flower/codec/RequestCodec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RequestCodec.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/codec/RequestCodec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/codec/RequestFactory.cpp.o -c /home/solid/projects/flower/flower/codec/RequestFactory.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RequestFactory.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/codec/RequestFactory.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/codec/RespondCodec.cpp.o -c /home/solid/projects/flower/flower/codec/RespondCodec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RespondCodec.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/codec/RespondCodec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/codec/RespondFactory.cpp.o -c /home/solid/projects/flower/flower/codec/RespondFactory.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RespondFactory.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/codec/RespondFactory.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/Myinterface/interface.cpp.o -c /home/solid/projects/flower/flower/Myinterface/interface.cpp",
+  "file": "/home/solid/projects/flower/flower/Myinterface/interface.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/Myinterface/interface.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/connectPool.dir/flower/Myinterface/AesCrypto.cpp.o -c /home/solid/projects/flower/flower/Myinterface/AesCrypto.cpp",
+  "file": "/home/solid/projects/flower/flower/Myinterface/AesCrypto.cpp",
+  "output": "CMakeFiles/connectPool.dir/flower/Myinterface/AesCrypto.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/connectPool.dir/message.pb.cc.o -c /home/solid/projects/flower/build-qt/message.pb.cc",
+  "file": "/home/solid/projects/flower/build-qt/message.pb.cc",
+  "output": "CMakeFiles/connectPool.dir/message.pb.cc.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/client.dir/flower/Client/main.cpp.o -c /home/solid/projects/flower/flower/Client/main.cpp",
+  "file": "/home/solid/projects/flower/flower/Client/main.cpp",
+  "output": "CMakeFiles/client.dir/flower/Client/main.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/client.dir/flower/Client/ClientOp.cpp.o -c /home/solid/projects/flower/flower/Client/ClientOp.cpp",
+  "file": "/home/solid/projects/flower/flower/Client/ClientOp.cpp",
+  "output": "CMakeFiles/client.dir/flower/Client/ClientOp.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/client.dir/flower/Myinterface/AesCrypto.cpp.o -c /home/solid/projects/flower/flower/Myinterface/AesCrypto.cpp",
+  "file": "/home/solid/projects/flower/flower/Myinterface/AesCrypto.cpp",
+  "output": "CMakeFiles/client.dir/flower/Myinterface/AesCrypto.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/client.dir/flower/RsaCripto/RsaCripto.cpp.o -c /home/solid/projects/flower/flower/RsaCripto/RsaCripto.cpp",
+  "file": "/home/solid/projects/flower/flower/RsaCripto/RsaCripto.cpp",
+  "output": "CMakeFiles/client.dir/flower/RsaCripto/RsaCripto.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/client.dir/flower/tcp/TcpSocket.cpp.o -c /home/solid/projects/flower/flower/tcp/TcpSocket.cpp",
+  "file": "/home/solid/projects/flower/flower/tcp/TcpSocket.cpp",
+  "output": "CMakeFiles/client.dir/flower/tcp/TcpSocket.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/client.dir/flower/ShareMemory/SecKeyShm.cpp.o -c /home/solid/projects/flower/flower/ShareMemory/SecKeyShm.cpp",
+  "file": "/home/solid/projects/flower/flower/ShareMemory/SecKeyShm.cpp",
+  "output": "CMakeFiles/client.dir/flower/ShareMemory/SecKeyShm.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/client.dir/flower/ShareMemory/BaseShm.cpp.o -c /home/solid/projects/flower/flower/ShareMemory/BaseShm.cpp",
+  "file": "/home/solid/projects/flower/flower/ShareMemory/BaseShm.cpp",
+  "output": "CMakeFiles/client.dir/flower/ShareMemory/BaseShm.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/client.dir/flower/codec/Codec.cpp.o -c /home/solid/projects/flower/flower/codec/Codec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/Codec.cpp",
+  "output": "CMakeFiles/client.dir/flower/codec/Codec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/client.dir/flower/codec/CodecFactory.cpp.o -c /home/solid/projects/flower/flower/codec/CodecFactory.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/CodecFactory.cpp",
+  "output": "CMakeFiles/client.dir/flower/codec/CodecFactory.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/client.dir/flower/codec/RequestCodec.cpp.o -c /home/solid/projects/flower/flower/codec/RequestCodec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RequestCodec.cpp",
+  "output": "CMakeFiles/client.dir/flower/codec/RequestCodec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/client.dir/flower/codec/RequestFactory.cpp.o -c /home/solid/projects/flower/flower/codec/RequestFactory.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RequestFactory.cpp",
+  "output": "CMakeFiles/client.dir/flower/codec/RequestFactory.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/client.dir/flower/codec/RespondCodec.cpp.o -c /home/solid/projects/flower/flower/codec/RespondCodec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RespondCodec.cpp",
+  "output": "CMakeFiles/client.dir/flower/codec/RespondCodec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/client.dir/flower/codec/RespondFactory.cpp.o -c /home/solid/projects/flower/flower/codec/RespondFactory.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RespondFactory.cpp",
+  "output": "CMakeFiles/client.dir/flower/codec/RespondFactory.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt",
+  "command": "/usr/bin/c++  -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt -g -O0 -g -std=gnu++17 -o CMakeFiles/client.dir/message.pb.cc.o -c /home/solid/projects/flower/build-qt/message.pb.cc",
+  "file": "/home/solid/projects/flower/build-qt/message.pb.cc",
+  "output": "CMakeFiles/client.dir/message.pb.cc.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/Myinterface",
+  "command": "/usr/bin/c++ -Dmyinterface_EXPORTS -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/flower/Myinterface -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/myinterface.dir/interface.cpp.o -c /home/solid/projects/flower/flower/Myinterface/interface.cpp",
+  "file": "/home/solid/projects/flower/flower/Myinterface/interface.cpp",
+  "output": "flower/Myinterface/CMakeFiles/myinterface.dir/interface.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/Myinterface",
+  "command": "/usr/bin/c++ -Dmyinterface_EXPORTS -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/flower/Myinterface -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/myinterface.dir/AesCrypto.cpp.o -c /home/solid/projects/flower/flower/Myinterface/AesCrypto.cpp",
+  "file": "/home/solid/projects/flower/flower/Myinterface/AesCrypto.cpp",
+  "output": "flower/Myinterface/CMakeFiles/myinterface.dir/AesCrypto.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/Myinterface",
+  "command": "/usr/bin/c++ -Dmyinterface_EXPORTS -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/flower/Myinterface -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/myinterface.dir/__/ShareMemory/SecKeyShm.cpp.o -c /home/solid/projects/flower/flower/ShareMemory/SecKeyShm.cpp",
+  "file": "/home/solid/projects/flower/flower/ShareMemory/SecKeyShm.cpp",
+  "output": "flower/Myinterface/CMakeFiles/myinterface.dir/__/ShareMemory/SecKeyShm.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/Myinterface",
+  "command": "/usr/bin/c++ -Dmyinterface_EXPORTS -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/flower/Myinterface -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/myinterface.dir/__/ShareMemory/BaseShm.cpp.o -c /home/solid/projects/flower/flower/ShareMemory/BaseShm.cpp",
+  "file": "/home/solid/projects/flower/flower/ShareMemory/BaseShm.cpp",
+  "output": "flower/Myinterface/CMakeFiles/myinterface.dir/__/ShareMemory/BaseShm.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/Myinterface",
+  "command": "/usr/bin/c++ -Dmyinterface_EXPORTS -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/flower/Myinterface -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/myinterface.dir/__/SecKeyNodeInfo/SecKeyNodeInfo.cpp.o -c /home/solid/projects/flower/flower/SecKeyNodeInfo/SecKeyNodeInfo.cpp",
+  "file": "/home/solid/projects/flower/flower/SecKeyNodeInfo/SecKeyNodeInfo.cpp",
+  "output": "flower/Myinterface/CMakeFiles/myinterface.dir/__/SecKeyNodeInfo/SecKeyNodeInfo.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/qt-server",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/solid/projects/flower/build-qt/flower/qt-server/flower-qt_autogen/include -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtSql -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/flower-qt.dir/flower-qt_autogen/mocs_compilation.cpp.o -c /home/solid/projects/flower/build-qt/flower/qt-server/flower-qt_autogen/mocs_compilation.cpp",
+  "file": "/home/solid/projects/flower/build-qt/flower/qt-server/flower-qt_autogen/mocs_compilation.cpp",
+  "output": "flower/qt-server/CMakeFiles/flower-qt.dir/flower-qt_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/qt-server",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/solid/projects/flower/build-qt/flower/qt-server/flower-qt_autogen/include -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtSql -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/flower-qt.dir/main.cpp.o -c /home/solid/projects/flower/flower/qt-server/main.cpp",
+  "file": "/home/solid/projects/flower/flower/qt-server/main.cpp",
+  "output": "flower/qt-server/CMakeFiles/flower-qt.dir/main.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/qt-server",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/solid/projects/flower/build-qt/flower/qt-server/flower-qt_autogen/include -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtSql -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/flower-qt.dir/MainWindow.cpp.o -c /home/solid/projects/flower/flower/qt-server/MainWindow.cpp",
+  "file": "/home/solid/projects/flower/flower/qt-server/MainWindow.cpp",
+  "output": "flower/qt-server/CMakeFiles/flower-qt.dir/MainWindow.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/qt-server",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/solid/projects/flower/build-qt/flower/qt-server/flower-qt_autogen/include -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtSql -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/flower-qt.dir/__/OCCIOP/OCCIOP.cpp.o -c /home/solid/projects/flower/flower/OCCIOP/OCCIOP.cpp",
+  "file": "/home/solid/projects/flower/flower/OCCIOP/OCCIOP.cpp",
+  "output": "flower/qt-server/CMakeFiles/flower-qt.dir/__/OCCIOP/OCCIOP.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/qt-client",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/solid/projects/flower/build-qt/flower/qt-client/flower-client_autogen/include -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt/flower/qt-client -I/home/solid/projects/flower/build-qt -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/flower-client.dir/flower-client_autogen/mocs_compilation.cpp.o -c /home/solid/projects/flower/build-qt/flower/qt-client/flower-client_autogen/mocs_compilation.cpp",
+  "file": "/home/solid/projects/flower/build-qt/flower/qt-client/flower-client_autogen/mocs_compilation.cpp",
+  "output": "flower/qt-client/CMakeFiles/flower-client.dir/flower-client_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/qt-client",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/solid/projects/flower/build-qt/flower/qt-client/flower-client_autogen/include -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt/flower/qt-client -I/home/solid/projects/flower/build-qt -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/flower-client.dir/main.cpp.o -c /home/solid/projects/flower/flower/qt-client/main.cpp",
+  "file": "/home/solid/projects/flower/flower/qt-client/main.cpp",
+  "output": "flower/qt-client/CMakeFiles/flower-client.dir/main.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/qt-client",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/solid/projects/flower/build-qt/flower/qt-client/flower-client_autogen/include -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt/flower/qt-client -I/home/solid/projects/flower/build-qt -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/flower-client.dir/ClientWindow.cpp.o -c /home/solid/projects/flower/flower/qt-client/ClientWindow.cpp",
+  "file": "/home/solid/projects/flower/flower/qt-client/ClientWindow.cpp",
+  "output": "flower/qt-client/CMakeFiles/flower-client.dir/ClientWindow.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/qt-client",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/solid/projects/flower/build-qt/flower/qt-client/flower-client_autogen/include -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt/flower/qt-client -I/home/solid/projects/flower/build-qt -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/flower-client.dir/__/RsaCripto/RsaCripto.cpp.o -c /home/solid/projects/flower/flower/RsaCripto/RsaCripto.cpp",
+  "file": "/home/solid/projects/flower/flower/RsaCripto/RsaCripto.cpp",
+  "output": "flower/qt-client/CMakeFiles/flower-client.dir/__/RsaCripto/RsaCripto.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/qt-client",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/solid/projects/flower/build-qt/flower/qt-client/flower-client_autogen/include -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt/flower/qt-client -I/home/solid/projects/flower/build-qt -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/flower-client.dir/__/tcp/TcpSocket.cpp.o -c /home/solid/projects/flower/flower/tcp/TcpSocket.cpp",
+  "file": "/home/solid/projects/flower/flower/tcp/TcpSocket.cpp",
+  "output": "flower/qt-client/CMakeFiles/flower-client.dir/__/tcp/TcpSocket.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/qt-client",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/solid/projects/flower/build-qt/flower/qt-client/flower-client_autogen/include -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt/flower/qt-client -I/home/solid/projects/flower/build-qt -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/flower-client.dir/__/codec/Codec.cpp.o -c /home/solid/projects/flower/flower/codec/Codec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/Codec.cpp",
+  "output": "flower/qt-client/CMakeFiles/flower-client.dir/__/codec/Codec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/qt-client",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/solid/projects/flower/build-qt/flower/qt-client/flower-client_autogen/include -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt/flower/qt-client -I/home/solid/projects/flower/build-qt -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/flower-client.dir/__/codec/CodecFactory.cpp.o -c /home/solid/projects/flower/flower/codec/CodecFactory.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/CodecFactory.cpp",
+  "output": "flower/qt-client/CMakeFiles/flower-client.dir/__/codec/CodecFactory.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/qt-client",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/solid/projects/flower/build-qt/flower/qt-client/flower-client_autogen/include -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt/flower/qt-client -I/home/solid/projects/flower/build-qt -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/flower-client.dir/__/codec/RequestCodec.cpp.o -c /home/solid/projects/flower/flower/codec/RequestCodec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RequestCodec.cpp",
+  "output": "flower/qt-client/CMakeFiles/flower-client.dir/__/codec/RequestCodec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/qt-client",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/solid/projects/flower/build-qt/flower/qt-client/flower-client_autogen/include -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt/flower/qt-client -I/home/solid/projects/flower/build-qt -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/flower-client.dir/__/codec/RequestFactory.cpp.o -c /home/solid/projects/flower/flower/codec/RequestFactory.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RequestFactory.cpp",
+  "output": "flower/qt-client/CMakeFiles/flower-client.dir/__/codec/RequestFactory.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/qt-client",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/solid/projects/flower/build-qt/flower/qt-client/flower-client_autogen/include -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt/flower/qt-client -I/home/solid/projects/flower/build-qt -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/flower-client.dir/__/codec/RespondCodec.cpp.o -c /home/solid/projects/flower/flower/codec/RespondCodec.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RespondCodec.cpp",
+  "output": "flower/qt-client/CMakeFiles/flower-client.dir/__/codec/RespondCodec.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/qt-client",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/solid/projects/flower/build-qt/flower/qt-client/flower-client_autogen/include -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt/flower/qt-client -I/home/solid/projects/flower/build-qt -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/flower-client.dir/__/codec/RespondFactory.cpp.o -c /home/solid/projects/flower/flower/codec/RespondFactory.cpp",
+  "file": "/home/solid/projects/flower/flower/codec/RespondFactory.cpp",
+  "output": "flower/qt-client/CMakeFiles/flower-client.dir/__/codec/RespondFactory.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/qt-client",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/solid/projects/flower/build-qt/flower/qt-client/flower-client_autogen/include -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt/flower/qt-client -I/home/solid/projects/flower/build-qt -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/flower-client.dir/__/Myinterface/AesCrypto.cpp.o -c /home/solid/projects/flower/flower/Myinterface/AesCrypto.cpp",
+  "file": "/home/solid/projects/flower/flower/Myinterface/AesCrypto.cpp",
+  "output": "flower/qt-client/CMakeFiles/flower-client.dir/__/Myinterface/AesCrypto.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/qt-client",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/solid/projects/flower/build-qt/flower/qt-client/flower-client_autogen/include -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt/flower/qt-client -I/home/solid/projects/flower/build-qt -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/flower-client.dir/__/ShareMemory/SecKeyShm.cpp.o -c /home/solid/projects/flower/flower/ShareMemory/SecKeyShm.cpp",
+  "file": "/home/solid/projects/flower/flower/ShareMemory/SecKeyShm.cpp",
+  "output": "flower/qt-client/CMakeFiles/flower-client.dir/__/ShareMemory/SecKeyShm.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/qt-client",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/solid/projects/flower/build-qt/flower/qt-client/flower-client_autogen/include -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt/flower/qt-client -I/home/solid/projects/flower/build-qt -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/flower-client.dir/__/ShareMemory/BaseShm.cpp.o -c /home/solid/projects/flower/flower/ShareMemory/BaseShm.cpp",
+  "file": "/home/solid/projects/flower/flower/ShareMemory/BaseShm.cpp",
+  "output": "flower/qt-client/CMakeFiles/flower-client.dir/__/ShareMemory/BaseShm.cpp.o"
+},
+{
+  "directory": "/home/solid/projects/flower/build-qt/flower/qt-client",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/solid/projects/flower/build-qt/flower/qt-client/flower-client_autogen/include -I/home/solid/projects/flower -I/home/solid/oracle/instantclient_23_4/sdk/include -I/home/solid/projects/flower/build-qt/flower/qt-client -I/home/solid/projects/flower/build-qt -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -O0 -g -std=gnu++17 -fPIC -o CMakeFiles/flower-client.dir/__/__/message.pb.cc.o -c /home/solid/projects/flower/build-qt/message.pb.cc",
+  "file": "/home/solid/projects/flower/build-qt/message.pb.cc",
+  "output": "flower/qt-client/CMakeFiles/flower-client.dir/__/__/message.pb.cc.o"
+}
+]

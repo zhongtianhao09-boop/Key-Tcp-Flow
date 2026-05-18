@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -O0 -g CMakeFiles/test_shm.dir/flower/ShareMemory/main.cpp.o CMakeFiles/test_shm.dir/flower/ShareMemory/SecKeyShm.cpp.o CMakeFiles/test_shm.dir/flower/ShareMemory/BaseShm.cpp.o -o test_shm   -L/home/solid/oracle/instantclient_23_4  -Wl,-rpath,/home/solid/oracle/instantclient_23_4 -lpthread 

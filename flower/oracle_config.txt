@@ -1,0 +1,24 @@
+Oracle Database 连接信息
+=======================
+
+容器名:    oracle-xe
+镜像:      container-registry.oracle.com/database/free:latest
+版本:      Oracle Database 23ai Free
+主机:      localhost
+端口:      1521
+SID:       FREE
+PDB:       FREEPDB1
+SYS 密码:  oracle123
+
+方案用户:  SECMNG (密码: SECMNG)
+管理用户:  SECMNGADMIN (密码: 123456)
+
+C++ OCCI 连接字符串: localhost:1521/FREEPDB1
+
+常用命令
+--------
+启动:    docker start oracle-xe
+停止:    docker stop oracle-xe
+日志:    docker logs oracle-xe
+连接:    docker exec -it oracle-xe sqlplus SYS/oracle123@FREEPDB1 AS SYSDBA
+SQL*Plus: docker exec -it oracle-xe sqlplus SECMNG/SECMNG@FREEPDB1

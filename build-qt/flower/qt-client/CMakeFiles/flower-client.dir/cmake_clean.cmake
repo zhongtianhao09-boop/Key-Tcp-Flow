@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/flower-client_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/flower-client_autogen.dir/ParseCache.txt"
+  "flower-client_autogen"
+  "CMakeFiles/flower-client.dir/ClientWindow.cpp.o"
+  "CMakeFiles/flower-client.dir/ClientWindow.cpp.o.d"
+  "CMakeFiles/flower-client.dir/__/Myinterface/AesCrypto.cpp.o"
+  "CMakeFiles/flower-client.dir/__/Myinterface/AesCrypto.cpp.o.d"
+  "CMakeFiles/flower-client.dir/__/RsaCripto/RsaCripto.cpp.o"
+  "CMakeFiles/flower-client.dir/__/RsaCripto/RsaCripto.cpp.o.d"
+  "CMakeFiles/flower-client.dir/__/ShareMemory/BaseShm.cpp.o"
+  "CMakeFiles/flower-client.dir/__/ShareMemory/BaseShm.cpp.o.d"
+  "CMakeFiles/flower-client.dir/__/ShareMemory/SecKeyShm.cpp.o"
+  "CMakeFiles/flower-client.dir/__/ShareMemory/SecKeyShm.cpp.o.d"
+  "CMakeFiles/flower-client.dir/__/__/message.pb.cc.o"
+  "CMakeFiles/flower-client.dir/__/__/message.pb.cc.o.d"
+  "CMakeFiles/flower-client.dir/__/codec/Codec.cpp.o"
+  "CMakeFiles/flower-client.dir/__/codec/Codec.cpp.o.d"
+  "CMakeFiles/flower-client.dir/__/codec/CodecFactory.cpp.o"
+  "CMakeFiles/flower-client.dir/__/codec/CodecFactory.cpp.o.d"
+  "CMakeFiles/flower-client.dir/__/codec/RequestCodec.cpp.o"
+  "CMakeFiles/flower-client.dir/__/codec/RequestCodec.cpp.o.d"
+  "CMakeFiles/flower-client.dir/__/codec/RequestFactory.cpp.o"
+  "CMakeFiles/flower-client.dir/__/codec/RequestFactory.cpp.o.d"
+  "CMakeFiles/flower-client.dir/__/codec/RespondCodec.cpp.o"
+  "CMakeFiles/flower-client.dir/__/codec/RespondCodec.cpp.o.d"
+  "CMakeFiles/flower-client.dir/__/codec/RespondFactory.cpp.o"
+  "CMakeFiles/flower-client.dir/__/codec/RespondFactory.cpp.o.d"
+  "CMakeFiles/flower-client.dir/__/tcp/TcpSocket.cpp.o"
+  "CMakeFiles/flower-client.dir/__/tcp/TcpSocket.cpp.o.d"
+  "CMakeFiles/flower-client.dir/flower-client_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/flower-client.dir/flower-client_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/flower-client.dir/main.cpp.o"
+  "CMakeFiles/flower-client.dir/main.cpp.o.d"
+  "flower-client"
+  "flower-client.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/flower-client.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

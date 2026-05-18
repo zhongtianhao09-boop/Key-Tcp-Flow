@@ -1,0 +1,35 @@
+{
+    // clangd 配置
+    "clangd.path": "/usr/bin/clangd",
+    "clangd.arguments": [
+        "--compile-commands-dir=build",
+        "--completion-style=detailed",
+        "--header-insertion=iwyu",
+        "--background-index",
+        "--all-scopes-completion",
+        "--clang-tidy",
+        "--pch-storage=memory"
+    ],
+    "clangd.semanticHighlighting": true,
+    "clangd.checkUpdates": false,
+
+    // 编辑器补全增强
+    "editor.tabCompletion": "on",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": true
+    },
+    "editor.suggestSelection": "first",
+    "editor.wordBasedSuggestions": "allDocuments",
+
+    // 禁用 C++ 内置 IntelliSense（避免和 clangd 冲突）
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "C_Cpp.autocomplete": "disabled",
+    "C_Cpp.errorSquiggles": "disabled",
+
+    // 保存时自动格式化
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true
+}

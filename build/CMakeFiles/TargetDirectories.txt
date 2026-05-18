@@ -1,0 +1,8 @@
+/home/solid/projects/flower/build/CMakeFiles/test1.dir
+/home/solid/projects/flower/build/CMakeFiles/test_pool.dir
+/home/solid/projects/flower/build/CMakeFiles/test_tcp.dir
+/home/solid/projects/flower/build/CMakeFiles/testocci.dir
+/home/solid/projects/flower/build/CMakeFiles/server.dir
+/home/solid/projects/flower/build/CMakeFiles/connectPool.dir
+/home/solid/projects/flower/build/CMakeFiles/edit_cache.dir
+/home/solid/projects/flower/build/CMakeFiles/rebuild_cache.dir
