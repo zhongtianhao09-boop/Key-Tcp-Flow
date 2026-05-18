@@ -1,8 +1,0 @@
-{
-    "ServerID": "Luffy",
-    "ClientID": "robin",
-    "ServerIP": "127.0.0.1",
-    "Port": 9898,
-    "ShmKey": "/home/solid/projects/flower/.claude/server.json",
-    "ShmMaxNode": 1
-}

@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -O0 -g CMakeFiles/myiface.dir/flower/Myinterface/main.cpp.o -o myiface   -L/home/solid/oracle/instantclient_23_4  -Wl,-rpath,/home/solid/oracle/instantclient_23_4:/home/solid/projects/flower/build-qt/flower/Myinterface flower/Myinterface/libmyinterface.so -lpthread -lcrypto 

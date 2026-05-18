@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -O0 -g CMakeFiles/testocci.dir/tests/testocci.cpp.o -o testocci   -L/home/solid/oracle/instantclient_23_4  -Wl,-rpath,/home/solid/oracle/instantclient_23_4 /home/solid/oracle/instantclient_23_4/libocci.so /home/solid/oracle/instantclient_23_4/libclntsh.so 

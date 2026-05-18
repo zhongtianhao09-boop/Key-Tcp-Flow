@@ -1,9 +1,0 @@
-{
-    "ServerID": "666",
-    "Port": 9898,
-    "dbUser": "SECMNG",
-    "dbPwd": "SECMNG",
-    "dbConnstr": "localhost:1521/FREEPDB1",
-    "ShmKey": "/home/solid/projects/flower/.claude/server.json",
-    "ShmMaxNode": 1
-}

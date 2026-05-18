@@ -1,0 +1,43 @@
+# 构建产物
+build/
+build-qt/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 敏感配置
+.claude/Client.json
+.claude/server.json
+.claude/settings.local.json
+
+# 运行时文件
+*.pem
+public.pem
+private.pem
+*.log
+flower_server.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.o
+*.so
+*.a
+
+# Core dump
+core
+*.core
+
+# Qt 自动生成
+*_autogen/
+mocs_compilation.cpp
+
+# 编译产物（不在 build 目录下的）
+flower/Client/main
+flower/Client/*.o
+
+# 配置文件副本
+Client.json
